@@ -1,1 +1,1 @@
-# gitstudy05
+This is a first commit for gitstudy.
